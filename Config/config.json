@@ -1,0 +1,9 @@
+﻿{
+  "baseUrl": "https://demoqa.com",
+  "timeout": 30,
+  "browser": "chrome",
+  "headless": false,
+  "reportFormat": "html",
+  "environment": "test",
+  "retryCount": 2
+}

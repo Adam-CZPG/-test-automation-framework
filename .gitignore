@@ -1,0 +1,33 @@
+﻿# PowerShell
+*.ps1xml
+*.log
+
+# Reports (optional - you might want to include sample reports)
+# Reports/*.html
+
+# Temporary files
+*.tmp
+*.temp
+Temp/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# Browser drivers (if any)
+WebDrivers/chromedriver.exe
+WebDrivers/geckodriver.exe
+WebDrivers/msedgedriver.exe
+
+# Credentials (if any)
+*credentials*
+*secrets*
+*.env

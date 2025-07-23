@@ -1,0 +1,13 @@
+﻿{
+  "bookstore": {
+    "getAllBooks": "/BookStore/v1/Books",
+    "getBook": "/BookStore/v1/Book",
+    "addBook": "/BookStore/v1/Books",
+    "deleteBook": "/BookStore/v1/Book"
+  },
+  "account": {
+    "register": "/Account/v1/User",
+    "login": "/Account/v1/GenerateToken",
+    "getUserBooks": "/Account/v1/User"
+  }
+}

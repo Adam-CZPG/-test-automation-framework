@@ -1,0 +1,18 @@
+﻿{
+  "users": {
+    "validUser": {
+      "userName": "testuser123",
+      "password": "Test@123456"
+    },
+    "invalidUser": {
+      "userName": "invalid",
+      "password": "wrong"
+    }
+  },
+  "books": {
+    "testBook": {
+      "isbn": "9781449325862",
+      "title": "Git Pocket Guide"
+    }
+  }
+}
