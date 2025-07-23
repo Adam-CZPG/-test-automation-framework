@@ -21,8 +21,8 @@ A comprehensive **PowerShell-based API testing framework** with professional rep
 ### Installation
 1. Clone the repository:
    \\\ash
-   git clone https://github.com/YOUR_USERNAME/test-automation-framework.git
-   cd test-automation-framework
+   git clone https://github.com/Adam-CZPG/-test-automation-framework.git
+   cd -test-automation-framework
    \\\
 
 2. Run the test suite:
@@ -97,7 +97,7 @@ Built by a **Test Manager** with 7+ years of testing experience, including:
 - [ ] Security testing features
 
 ## 📞 Contact
-Created by **Ali** - Experienced Test Manager from Uzbekistan
+Created by **Akhmadjon** - Experienced Test Manager from Prague
 
 ---
 ⭐ **Star this repository if you find it useful!**
